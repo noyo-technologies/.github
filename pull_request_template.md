@@ -1,3 +1,5 @@
+**Note: Please delete any sections that are not relevant for the review rather than just leaving them blank** 
+
 ## Description
 
 Please include a summary of the change and/or which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
@@ -12,7 +14,7 @@ Please delete options that are not relevant.
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 
-### Public Behavioral Changes
+### Public Behavioral Change
 
 - [ ] Is this change introducing any new public endpoints?
 - [ ] Is this change introducing any behavioral changes on live, public endpoints, even indirectly?
